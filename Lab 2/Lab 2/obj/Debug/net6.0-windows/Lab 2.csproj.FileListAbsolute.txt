@@ -1,0 +1,16 @@
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\bin\Debug\net6.0-windows\Lab 2.exe
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\bin\Debug\net6.0-windows\Lab 2.deps.json
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\bin\Debug\net6.0-windows\Lab 2.runtimeconfig.json
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\bin\Debug\net6.0-windows\Lab 2.dll
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\bin\Debug\net6.0-windows\Lab 2.pdb
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab_2.Form1.resources
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.csproj.GenerateResource.cache
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.AssemblyInfoInputs.cache
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.AssemblyInfo.cs
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.dll
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\refint\Lab 2.dll
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.pdb
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\Lab 2.genruntimeconfig.cache
+C:\Users\Taras\source\repos\OOP\Lab 2\Lab 2\obj\Debug\net6.0-windows\ref\Lab 2.dll
